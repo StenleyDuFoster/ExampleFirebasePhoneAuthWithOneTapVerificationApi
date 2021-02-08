@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "938254071159",
+    "project_id": "phoneauth-with-smsreceiveapi",
+    "storage_bucket": "phoneauth-with-smsreceiveapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938254071159:android:a85041986cec5cd3a5dd72",
+        "android_client_info": {
+          "package_name": "example.phoneauth.firebase.with.smsverificationapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938254071159-c2ne1ilg4bg3sivpr5tjtjjtitdqjiaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.phoneauth.firebase.with.smsverificationapi",
+            "certificate_hash": "311e72345726e12c9c77fcfc1d1305aeeb16c70b"
+          }
+        },
+        {
+          "client_id": "938254071159-d8f1lcfhtod6bn4mqca89e78vrrjb6jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGUJX_aUh_ZBQJL64KlsTkCapzT22kA_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938254071159-d8f1lcfhtod6bn4mqca89e78vrrjb6jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
